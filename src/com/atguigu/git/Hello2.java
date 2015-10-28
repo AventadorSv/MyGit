@@ -6,5 +6,6 @@ public class Hello2 {
 		System.out.println("hello!");
 		System.out.println("改动本地!");
 		System.out.println("Github Server2!");
+		System.out.println("本地提交!");
 	}
 }
